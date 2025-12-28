@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @FarhanAwan-478690
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning differnt programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-FarhanAwan-478690/FarhanAwan-478690 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **integrating AI features into responsive web applications.**
+- 👯 I’m looking to collaborate on **innovative projects that push the boundaries of the web.**
+- 🤝 I’m looking for help with **optimizing application performance for high-traffic environments.**
+- 🌱 I’m currently learning **Next.js, TypeScript, and modern security protocols.**
+- 💬 Ask me about **turning complex requirements into user-friendly digital experiences.**
+- ⚡ Fun fact **Passionate about bridging the gap between sophisticated back-end logic and beautiful front-end design.**
